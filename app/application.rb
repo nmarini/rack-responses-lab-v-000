@@ -1,4 +1,3 @@
-require 'pry'
 class Application
 
   def call(env)
@@ -6,6 +5,7 @@ class Application
 
     time = Time.hour
     binding.pry
+
   end
 
 end
