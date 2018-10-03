@@ -1,6 +1,6 @@
 class Application
 
   def call
-  end 
+  end
 
-end 
+end
